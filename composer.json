@@ -27,8 +27,6 @@
   "version": "v1.0.0-dev",
   "minimum-stability": "stable",
   "require": {
-    "php" : ">=7.4",
-    "guzzlehttp/guzzle": "^7.3",
-    "phpunit/phpunit": "^4.8"
+    "php" : ">=7.4"
   }
 }
