@@ -1,0 +1,34 @@
+{
+  "name": "jamslylm/moncash-php-sdk",
+  "description": "Mon Cash SDK for PHP developers !",
+  "type": "library",
+  "keywords": [
+    "Mon cash",
+    "Mon cash api",
+    "api",
+    "Payment",
+    "DGCGroup",
+    "MonCash-PHP-SDK"
+  ],
+  "homepage": "https://github.com/jamslylm/moncash-php-sdk",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "JLM\\MonCash\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jamsly-love MINÉ",
+      "email": "mjamsly98@gmail.com",
+      "homepage": "https://github.com/jamslylm"
+    }
+  ],
+  "version": "v1.0.0-dev",
+  "minimum-stability": "stable",
+  "require": {
+    "php" : ">=7.4",
+    "guzzlehttp/guzzle": "^7.3",
+    "phpunit/phpunit": "^4.8"
+  }
+}
