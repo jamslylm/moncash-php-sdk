@@ -1,12 +1,12 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'v1.0.0-dev',
+        'version' => '1.0.0.0-dev',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'reference' => NULL,
-        'name' => 'jamslylovemine/mon-cash-demo',
+        'name' => 'jamslylm/moncash-php-sdk',
         'dev' => true,
     ),
     'versions' => array(
@@ -46,9 +46,9 @@
             'reference' => '1dc8d9cba3897165e16d12bb13d813afb1eb3fe7',
             'dev_requirement' => false,
         ),
-        'jamslylovemine/mon-cash-demo' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'jamslylm/moncash-php-sdk' => array(
+            'pretty_version' => 'v1.0.0-dev',
+            'version' => '1.0.0.0-dev',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
